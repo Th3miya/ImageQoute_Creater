@@ -48,3 +48,4 @@ image.save(output_path)
 
 # Display the image (optional)
 image.show()
+print('done')
